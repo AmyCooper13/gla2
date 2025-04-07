@@ -38,5 +38,17 @@
   "devDependencies": {
     "@testing-library/react": "^16.3.0",
     "jest": "^27.5.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmyCooper13/gla2.git"
+  },
+  "author": "Amy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmyCooper13/gla2/issues"
+  },
+  "homepage": "https://github.com/AmyCooper13/gla2#readme"
 }
