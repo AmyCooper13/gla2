@@ -1,7 +1,7 @@
 pipeline {
     agent any
     enviroment{
-        NETLIFY_SITE_ID'24a47601-7661-414d-8d72-2329a83e89d4'
+        NETLIFY_SITE_ID = '24a47601-7661-414d-8d72-2329a83e89d4'
         NETLIFY_AUTH_TOKEN = credentials('GLA2Token')
     }
 
